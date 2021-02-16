@@ -13,7 +13,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass'
   },
   {
     id: '153',
@@ -29,7 +29,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/bayleef.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass'
   },
   {
     id: '154',
@@ -45,7 +45,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/meganium.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass'
   },
   {
     id: '155',
@@ -61,7 +61,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/cyndaquil.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire'
   },
   {
     id: '156',
@@ -77,7 +77,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/quilava.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire'
   },
   {
     id: '157',
@@ -93,7 +93,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/typhlosion.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire'
   },
   {
     id: '158',
@@ -109,7 +109,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/totodile.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water'
   },
   {
     id: '159',
@@ -125,7 +125,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/croconaw.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water'
   },
   {
     id: '160',
@@ -141,7 +141,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/feraligatr.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water'
   },
   {
     id: '161',
@@ -157,7 +157,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/sentret.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '162',
@@ -173,7 +173,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/furret.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '163',
@@ -189,7 +189,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/hoothoot.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal/flying'
   },
   {
     id: '164',
@@ -205,7 +205,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/noctowl.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal/flying'
   },
   {
     id: '165',
@@ -221,7 +221,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/ledyba.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/flying'
   },
   {
     id: '166',
@@ -237,7 +237,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/ledian.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/flying'
   },
   {
     id: '167',
@@ -253,7 +253,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/spinarak.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/poison'
   },
   {
     id: '168',
@@ -269,7 +269,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/ariados.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/poison'
   },
   {
     id: '169',
@@ -285,7 +285,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/crobat.gif'
     },
     generation: '2',
-    type: ''
+    type: 'poison/flying'
   },
   {
     id: '170',
@@ -301,7 +301,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/chinchou.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/electric'
   },
   {
     id: '171',
@@ -317,7 +317,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/lanturn.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/electric'
   },
   {
     id: '172',
@@ -333,7 +333,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/pichu.gif'
     },
     generation: '2',
-    type: ''
+    type: 'electric'
   },
   {
     id: '173',
@@ -349,7 +349,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/cleffa.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fairy'
   },
   {
     id: '174',
@@ -365,7 +365,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/igglybuff.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal/fairy'
   },
   {
     id: '175',
@@ -381,7 +381,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/togepi.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fairy'
   },
   {
     id: '176',
@@ -397,7 +397,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/togetic.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fairy/flying'
   },
   {
     id: '177',
@@ -413,7 +413,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/natu.gif'
     },
     generation: '2',
-    type: ''
+    type: 'psychic/flying'
   },
   {
     id: '178',
@@ -429,7 +429,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/xatu.gif'
     },
     generation: '2',
-    type: ''
+    type: 'psychic/flying'
   },
   {
     id: '179',
@@ -445,7 +445,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/mareep.gif'
     },
     generation: '2',
-    type: ''
+    type: 'electric'
   },
   {
     id: '180',
@@ -461,7 +461,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/flaaffy.gif'
     },
     generation: '2',
-    type: ''
+    type: 'electric'
   },
   {
     id: '181',
@@ -477,7 +477,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/ampharos.gif'
     },
     generation: '2',
-    type: ''
+    type: 'electric'
   },
   {
     id: '182',
@@ -493,7 +493,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/bellossom.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass'
   },
   {
     id: '183',
@@ -509,7 +509,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/marill.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/fairy'
   },
   {
     id: '184',
@@ -525,7 +525,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/azumarill.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/fairy'
   },
   {
     id: '185',
@@ -541,7 +541,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/sudowoodo.gif'
     },
     generation: '2',
-    type: ''
+    type: 'rock'
   },
   {
     id: '186',
@@ -557,7 +557,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/politoed.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water'
   },
   {
     id: '187',
@@ -573,7 +573,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/hoppip.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass/flying'
   },
   {
     id: '188',
@@ -589,7 +589,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/skiploom.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass/flying'
   },
   {
     id: '189',
@@ -605,7 +605,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/jumpluff.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass/flying'
   },
   {
     id: '190',
@@ -621,7 +621,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/aipom.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '191',
@@ -637,7 +637,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/sunkern.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass'
   },
   {
     id: '192',
@@ -653,7 +653,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/sunflora.gif'
     },
     generation: '2',
-    type: ''
+    type: 'grass'
   },
   {
     id: '193',
@@ -669,7 +669,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/yanma.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/flying'
   },
   {
     id: '194',
@@ -685,7 +685,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/wooper.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/ground'
   },
   {
     id: '195',
@@ -701,7 +701,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/quagsire.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/ground'
   },
   {
     id: '196',
@@ -717,7 +717,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/espeon.gif'
     },
     generation: '2',
-    type: ''
+    type: 'psychic'
   },
   {
     id: '197',
@@ -733,7 +733,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif'
     },
     generation: '2',
-    type: ''
+    type: 'dark'
   },
   {
     id: '198',
@@ -749,7 +749,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/murkrow.gif'
     },
     generation: '2',
-    type: ''
+    type: 'dark/flying'
   },
   {
     id: '199',
@@ -765,7 +765,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/slowking.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/psychic'
   },
   {
     id: '200',
@@ -781,7 +781,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/misdreavus.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ghost'
   },
   {
     id: '201',
@@ -797,7 +797,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/unown.gif'
     },
     generation: '2',
-    type: ''
+    type: 'psychic'
   },
   {
     id: '202',
@@ -813,7 +813,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/wobbuffet.gif'
     },
     generation: '2',
-    type: ''
+    type: 'psychic'
   },
   {
     id: '203',
@@ -829,7 +829,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/girafarig.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal/psychic'
   },
   {
     id: '204',
@@ -845,7 +845,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/pineco.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug'
   },
   {
     id: '205',
@@ -861,7 +861,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/forretress.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/steel'
   },
   {
     id: '206',
@@ -877,7 +877,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/dunsparce.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '207',
@@ -893,7 +893,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/gligar.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ground/flying'
   },
   {
     id: '208',
@@ -909,7 +909,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/steelix.gif'
     },
     generation: '2',
-    type: ''
+    type: 'steel/ground'
   },
   {
     id: '209',
@@ -925,7 +925,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/snubbull.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fairy'
   },
   {
     id: '210',
@@ -941,7 +941,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/granbull.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fairy'
   },
   {
     id: '211',
@@ -957,7 +957,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/qwilfish.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/poison'
   },
   {
     id: '212',
@@ -973,7 +973,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/steel'
   },
   {
     id: '213',
@@ -989,7 +989,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/shuckle.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/rock'
   },
   {
     id: '214',
@@ -1005,7 +1005,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/heracross.gif'
     },
     generation: '2',
-    type: ''
+    type: 'bug/fighting'
   },
   {
     id: '215',
@@ -1021,7 +1021,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/sneasel.gif'
     },
     generation: '2',
-    type: ''
+    type: 'dark/ice'
   },
   {
     id: '216',
@@ -1037,7 +1037,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/teddiursa.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '217',
@@ -1053,7 +1053,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/ursaring.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '218',
@@ -1069,7 +1069,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/slugma.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire'
   },
   {
     id: '219',
@@ -1085,7 +1085,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/magcargo.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire/rock'
   },
   {
     id: '220',
@@ -1101,7 +1101,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/swinub.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ice/ground'
   },
   {
     id: '221',
@@ -1117,7 +1117,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/piloswine.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ice/ground'
   },
   {
     id: '222',
@@ -1133,7 +1133,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/corsola.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/rock'
   },
   {
     id: '223',
@@ -1149,7 +1149,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/remoraid.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water'
   },
   {
     id: '224',
@@ -1165,7 +1165,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/octillery.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water'
   },
   {
     id: '225',
@@ -1181,7 +1181,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/delibird.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ice/flying'
   },
   {
     id: '226',
@@ -1197,7 +1197,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/mantine.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/flying'
   },
   {
     id: '227',
@@ -1213,7 +1213,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/skarmory.gif'
     },
     generation: '2',
-    type: ''
+    type: 'steel/flying'
   },
   {
     id: '228',
@@ -1229,7 +1229,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/houndour.gif'
     },
     generation: '2',
-    type: ''
+    type: 'dark/fire'
   },
   {
     id: '229',
@@ -1245,7 +1245,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/houndoom.gif'
     },
     generation: '2',
-    type: ''
+    type: 'dark/fire'
   },
   {
     id: '230',
@@ -1261,7 +1261,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/kingdra.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water/dragon'
   },
   {
     id: '231',
@@ -1277,7 +1277,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/phanpy.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ground'
   },
   {
     id: '232',
@@ -1293,7 +1293,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/donphan.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ground'
   },
   {
     id: '233',
@@ -1309,7 +1309,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/porygon2.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '234',
@@ -1325,7 +1325,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/stantler.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '235',
@@ -1341,7 +1341,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/smeargle.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '236',
@@ -1357,7 +1357,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/tyrogue.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fighting'
   },
   {
     id: '237',
@@ -1373,7 +1373,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/hitmontop.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fighting'
   },
   {
     id: '238',
@@ -1389,7 +1389,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/smoochum.gif'
     },
     generation: '2',
-    type: ''
+    type: 'ice/psychic'
   },
   {
     id: '239',
@@ -1405,7 +1405,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/elekid.gif'
     },
     generation: '2',
-    type: ''
+    type: 'electric'
   },
   {
     id: '240',
@@ -1421,7 +1421,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/magby.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire'
   },
   {
     id: '241',
@@ -1437,7 +1437,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/miltank.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '242',
@@ -1453,7 +1453,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/blissey.gif'
     },
     generation: '2',
-    type: ''
+    type: 'normal'
   },
   {
     id: '243',
@@ -1469,7 +1469,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/raikou.gif'
     },
     generation: '2',
-    type: ''
+    type: 'electric'
   },
   {
     id: '244',
@@ -1485,7 +1485,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/entei.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire'
   },
   {
     id: '245',
@@ -1501,7 +1501,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/suicune.gif'
     },
     generation: '2',
-    type: ''
+    type: 'water'
   },
   {
     id: '246',
@@ -1517,7 +1517,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/larvitar.gif'
     },
     generation: '2',
-    type: ''
+    type: 'rock/ground'
   },
   {
     id: '247',
@@ -1533,7 +1533,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/pupitar.gif'
     },
     generation: '2',
-    type: ''
+    type: 'rock/ground'
   },
   {
     id: '248',
@@ -1549,7 +1549,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/tyranitar.gif'
     },
     generation: '2',
-    type: ''
+    type: 'rock/dark'
   },
   {
     id: '249',
@@ -1565,7 +1565,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/lugia.gif'
     },
     generation: '2',
-    type: ''
+    type: 'psychic/flying'
   },
   {
     id: '250',
@@ -1581,7 +1581,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/ho-oh.gif'
     },
     generation: '2',
-    type: ''
+    type: 'fire/flying'
   },
   {
     id: '251',
@@ -1597,7 +1597,7 @@ const pokemons2 = [
       animated: 'http://img.pokemondb.net/sprites/black-white/anim/normal/celebi.gif'
     },
     generation: '2',
-    type: ''
+    type: 'psychic/grass'
   }
 ]
 
