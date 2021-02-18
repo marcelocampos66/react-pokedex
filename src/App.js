@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
-import pokemons from './data';
-import Pokedex from './Pokedex.jsx';
-import Header from './Header.jsx';
+import pokemons from './data/data';
+import PokedexV2 from './components/Pokedex_v2';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Pokedex pokemons={pokemons}/>
+      <PokedexV2 pokemons={pokemons}/>
     </div>
   );
 }

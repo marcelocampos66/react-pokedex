@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 class PokemonCard extends React.Component {
   render() {
     const { id, name, type, weight, sprites } = this.props.pokemon;
-    const { normal, animated } = sprites;
+    const { animated } = sprites;
     return (
       <div className="pokemon-card">
         <p> { id } </p>
